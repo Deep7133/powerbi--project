@@ -81,7 +81,7 @@ Average ER Visits by Control Level
 
 Average PEF by Control Level
 
-##🎯 PAGE 2 — What This Dashboard Helps With
+## 🎯 PAGE 2 — What This Dashboard Helps With
 
 Identify patients who need urgent lifestyle or medication intervention
 
