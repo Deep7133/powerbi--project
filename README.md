@@ -22,7 +22,8 @@ Page 2 — Risk Factors & Clinical Indicators Dashboard
 These dashboards help visualize patient behavior, identify high-risk groups, and understand asthma severity patterns.
 
 ## 📊 PAGE 1 — Asthma Overview Dashboard (Summary & Insights)
-✅ What I Built (Charts & Cards)
+
+✔ Cards I Built
 
 Total Patients (10,000)
 
@@ -32,7 +33,7 @@ Average FeNO Level (25.10)
 
 Average ER Visits (1.02)
 
-Charts
+✔ Charts
 
 Allergies vs Count of Patients
 
@@ -43,6 +44,18 @@ Smoking Status vs Count of Patients
 Gender (Asthma) Donut Chart
 
 Air Pollution Level vs Count of Patients
+
+## 🎯 PAGE 1 — What This Dashboard Helps With
+
+Identify high-risk age groups
+
+Understand environmental impact (pollution, allergens)
+
+Recognize behavior triggers (smoking)
+
+Compare asthma prevalence across segments
+
+Understand population distribution
 
 
 ## 📊 PAGE 2 — Risk Factors & Clinical Indicators Dashboard
@@ -67,6 +80,18 @@ Asthma Control Level Distribution
 Average ER Visits by Control Level
 
 Average PEF by Control Level
+
+##🎯 PAGE 2 — What This Dashboard Helps With
+
+Identify patients who need urgent lifestyle or medication intervention
+
+Link asthma severity with ER visits
+
+Understand the relationship between BMI and asthma
+
+Track clinical indicators like PEF & medication adherence
+
+Evaluate overall asthma management quality
 
 
 ## 🎉 Final Summary
