@@ -1,7 +1,7 @@
 # 📘 Asthma Analytics Dashboard – Power BI Project
 A complete end-to-end data analysis project focusing on asthma prevalence, risk factors & clinical indicators using a synthetic dataset of 10,000 patients.
 
-🚀 Project Overview
+# 🚀 Project Overview
 
 This project analyzes a synthetic asthma dataset to understand:
 
@@ -21,7 +21,7 @@ Page 2 — Risk Factors & Clinical Indicators Dashboard
 
 These dashboards help visualize patient behavior, identify high-risk groups, and understand asthma severity patterns.
 
-📊 PAGE 1 — Asthma Overview Dashboard (Summary & Insights)
+## 📊 PAGE 1 — Asthma Overview Dashboard (Summary & Insights)
 ✅ What I Built (Charts & Cards)
 
 Total Patients (10,000)
@@ -45,7 +45,7 @@ Gender (Asthma) Donut Chart
 Air Pollution Level vs Count of Patients
 
 
-📊 PAGE 2 — Risk Factors & Clinical Indicators Dashboard
+## 📊 PAGE 2 — Risk Factors & Clinical Indicators Dashboard
 ✔ Cards I Built
 
 Average PEF = 400.88
@@ -69,7 +69,7 @@ Average ER Visits by Control Level
 Average PEF by Control Level
 
 
-🎉 Final Summary
+## 🎉 Final Summary
 
 This project demonstrates my ability to clean, analyze, visualize, and interpret health-related data using Power BI.
 The dashboards provide strong analytical insights into asthma prevalence, risk factors, and clinical indicators.
